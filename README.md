@@ -1,2 +1,11 @@
-# Todo-App
-This is a simple Todo-Application created with React.js and Node.js.
+# Getting Started with Create React App
+
+# For Backend
+cd backend
+npm install
+node server.js
+
+# For Frontend
+cd frontend
+npm install
+npm start
